@@ -1,4 +1,5 @@
 /venv
 /vid
 /jsons
+/vid_frames
 yolov8x.pt
